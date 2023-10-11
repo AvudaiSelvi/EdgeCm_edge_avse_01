@@ -8,3 +8,9 @@ packages:
   gitUsername: AvudaiSelvi
   gitToken: edge.scaffolding.EdgeCm_edge_avse_01.CM_Github_01.gitToken
   gitBranch: main
+- name: GP01_OrderManagement-master
+  gitServerName: SelviGitHub
+  gitUrl: https://github.com/AvudaiSelvi
+  gitUsername: AvudaiSelvi
+  gitToken: edge.scaffolding.GP01_OrderManagement-master.SelviGitHub.gitToken
+  gitBranch: main
