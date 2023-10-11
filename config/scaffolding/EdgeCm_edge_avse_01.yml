@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeCm_edge_avse_01
+  gitServerName: CM_Github_01
+  gitUrl: https://github.com/AvudaiSelvi/EdgeCm_edge_avse_01
+  gitUsername: AvudaiSelvi
+  gitToken: edge.scaffolding.EdgeCm_edge_avse_01.CM_Github_01.gitToken
+  gitBranch: main
