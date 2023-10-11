@@ -56,6 +56,12 @@ services:
   packages:
   - name: WmPublic
     version: 11.0.0.0.560
+- serviceName: edge.cm_edge_avse_01.integrations:test
+  packages:
+  - name: EdgeCm_edge_avse_01
+    version: "1.0"
+  - name: GP01_OrderManagement-master
+    version: "1.0"
 packages:
 - name: EdgeCm_edge_avse_01
   gitServerName: CM_Github_01

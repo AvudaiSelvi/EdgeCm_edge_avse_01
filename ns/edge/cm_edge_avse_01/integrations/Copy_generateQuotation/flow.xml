@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FLOW VERSION="3.0" CLEANUP="true">
+  <COMMENT>Wrapper for the flowservice in custom imported package so it can be invoked inside workflow.</COMMENT>
+
+  <!-- nodes -->
+
+<INVOKE NAME="GP01_OrderManagement-master" SERVICE="gp.order.management.services:generateQuote">
+  <COMMENT></COMMENT>
+</INVOKE>
+</FLOW>
