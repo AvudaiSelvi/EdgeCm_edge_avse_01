@@ -463,14 +463,14 @@
   <value name="retry_max">0</value>
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
-    <value name="lastModifiedBy">avse</value>
-    <value name="lastModifiedDate">1697007812450</value>
+    <value name="lastModifiedBy">kalpshekhar.gupta@softwareag.com</value>
+    <value name="lastModifiedDate">1697040159633</value>
     <record name="edgeServer" javaclass="com.wm.util.Values">
-      <value name="group">Default</value>
-      <value name="id">default</value>
-      <value name="name">Cloud Execution</value>
+      <value name="id">326c1f5fa623469489f4ac7504efa68e</value>
+      <value name="group">default</value>
+      <value name="name">Kalp0002</value>
     </record>
-    <value name="displayName">generateQuotation</value>
+    <value name="displayName">Copy_generateQuotation</value>
     <value name="description">Wrapper for the flowservice in custom imported package so it can be invoked inside workflow.</value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
       <record name="/0" javaclass="com.wm.util.Values">
